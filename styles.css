@@ -12,6 +12,10 @@
     --laranja-degrade: linear-gradient(97.54deg, #FFA500 35.49%, #e69500 165.37%);
     --fonte-principal: "Poppins";
     --cinza: #949494;
+    --fonte-secundario: "Josefin Sans";
+    --preto: #000000;
+    --cinza: #474646;
+    --cinza-claro: #858585;
 }
 
 body {
